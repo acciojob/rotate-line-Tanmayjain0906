@@ -3,7 +3,7 @@
 /* 	background-color : black;
 	width: 200px;
 	height: 2px; */
-	position: relative;
+	position: absolute;
 	top: 100px;
 	left: 100px;
 	animation: line 2s linear infinite;
